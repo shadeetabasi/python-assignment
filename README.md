@@ -3,7 +3,19 @@
 This repository will house the Python homework assignment due on December 3, 2020.
 
 ## Files within folders include:
-* TBD
+
+## PyBank Files
+* main.py
+* pybankmain.txt
+* Resources Folder:
+  * CSV Data
+
+## PyPoll Files
+* main.py
+* pypollmain.txt
+* Resources Folder:
+  * CSV Data
 
 ## Status:
-* In progress
+* PyBank Exercise: COMPLETE
+* PyPoll Exercise: IN PROGRESS
