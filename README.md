@@ -6,9 +6,10 @@ This repository will house the Python homework assignment due on December 3, 202
 
 ## PyBank Files
 * main.py
-* pybankmain.txt
+* Analysis Folder:
+ * pybankmain.txt
 * Resources Folder:
-  * CSV Data
+ * CSV Data
 
 ## PyPoll Files
 * main.py
