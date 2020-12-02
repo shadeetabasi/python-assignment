@@ -6,7 +6,6 @@ import csv
 csvpath = os.path.join('Resources',"02-Homework_03-Python_Instructions_PyBank_Resources_budget_data.csv")
 
 #Set values
-#month = str(pybank_data[0])
 total_months = []
 net_total = 0
 mom_change = []
