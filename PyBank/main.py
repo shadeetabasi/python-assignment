@@ -6,7 +6,6 @@ import csv
 csvpath = os.path.join('Resources',"02-Homework_03-Python_Instructions_PyBank_Resources_budget_data.csv")
 
 #Set values
-#month = str(pybank_data[0])
 total_months = []
 net_total = 0
 mom_change = []
@@ -70,7 +69,7 @@ print(f"Greatest Increase in Profits: {greatest_increase_month} (${greatest_incr
 print(f"Greatest Decrease in Profits: {greatest_decrease_month} (${greatest_decrease})")
 
 # Write the above to a text file
-with open("pybankmain.txt", "w") as f:
+with open("Analysis/pybankmain.txt", "w") as f:
     f.write("Financial Analysis\n")
     f.write("----------------------\n")
     f.write(f"Total Months: {len(total_months)}\n")
