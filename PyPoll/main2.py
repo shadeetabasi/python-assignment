@@ -56,7 +56,7 @@ print("----------------------")
 print(f"Winner: {winner_name}")
 print("----------------------")
 
-# Write the above to a text file - potentially need to find a better way to write this out to a text file so it's less repetitive
+# Write the above to a text file
 with open("Analysis/pypollmain.txt", "w") as f:
 
     f.write("Election Results\n")
