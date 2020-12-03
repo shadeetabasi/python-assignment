@@ -12,11 +12,12 @@ This repository will house the Python homework assignment due on December 3, 202
   * CSV Data
 
 ## PyPoll Files
-* main.py
-* pypollmain.txt
+* main2.py
+* Analysis Folder:
+  * pypollmain.txt
 * Resources Folder:
   * CSV Data
 
 ## Status:
 * PyBank Exercise: COMPLETE
-* PyPoll Exercise: IN PROGRESS
+* PyPoll Exercise: COMPLETE
